@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "crystal-mod:crystal-log",
+    "crystal-mod:stripped-crystal-log",
+    "crystal-mod:crystal-wood",
+    "crystal-mod:stripped-crystal-wood",
+    "crystal-mod:crystal-planks"
+  ]
+}

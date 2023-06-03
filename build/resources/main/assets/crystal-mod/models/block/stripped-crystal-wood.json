@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "crystal-mod:block/stripped-crystal-log",
+    "side": "crystal-mod:block/stripped-crystal-log"
+  }
+}

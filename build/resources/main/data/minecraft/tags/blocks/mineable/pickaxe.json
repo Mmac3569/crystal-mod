@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "crystal-mod:crystal-block",
+    "crystal-mod:crystal-ore",
+    "crystal-mod:deepslate-crystal-ore"
+  ]
+}

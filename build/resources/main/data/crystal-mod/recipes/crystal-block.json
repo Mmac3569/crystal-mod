@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "crystal-mod:crystal"
+    }
+  },
+  "result": {
+    "item": "crystal-mod:crystal-block",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "crystal-mod:block/crystal-wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "crystal-mod:block/crystal-wood"
+    },
+    "axis=z": {
+      "model": "crystal-mod:block/crystal-wood",
+      "x": 90
+    }
+  }
+}

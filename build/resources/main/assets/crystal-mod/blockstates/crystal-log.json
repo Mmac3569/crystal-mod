@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "crystal-mod:block/crystal-log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "crystal-mod:block/crystal-log"
+    },
+    "axis=z": {
+      "model": "crystal-mod:block/crystal-log_horizontal",
+      "x": 90
+    }
+  }
+}
