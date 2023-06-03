@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "crystal-mod:raw-crystal"
+  },
+  "result": "crystal-mod:crystal",
+  "experience": 16,
+  "cookingtime": 500
+}

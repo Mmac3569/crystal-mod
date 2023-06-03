@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "crystal-mod",
+	"version": "${version}",
+	"name": "Crystal mod",
+	"description": "This is a mod that adds crystals!",
+	"authors": [
+		"Jezek939"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/crystal-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.crystal.mod.CrystalMod"
+		],
+		"client": [
+			"com.crystal.mod.CrystalModClient"
+		],
+		"fabric-datagen": [
+			"com.crystal.mod.CrystalModDataGenerator"
+		]
+	},
+	"mixins": [
+		"crystal-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.14",
+		"minecraft": "~1.19.3",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

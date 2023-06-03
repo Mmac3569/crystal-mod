@@ -1,0 +1,26 @@
+{
+  "item.crystal-mod.crystal": "Crystal",
+  "item.crystal-mod.raw-crystal": "Raw Crystal",
+  "item.crystal-mod.crystal-handle": "Crystal Handle",
+
+  "item.crystal-mod.crystal-pickaxe": "Crystal Pickaxe",
+  "item.crystal-mod.crystal-axe": "Crystal Axe",
+  "item.crystal-mod.crystal-sword": "Crystal Sword",
+  "item.crystal-mod.crystal-shovel": "Crystal Shovel",
+  "item.crystal-mod.crystal-hoe": "Crystal Hoe",
+
+  "item.crystal-mod.enchanted-crystal-apple": "Enchanted Crystal Apple",
+  "item.crystal-mod.crystal-apple": "Crystal Apple",
+
+  "block.crystal-mod.crystal-block": "Crystal Block",
+  "block.crystal-mod.crystal-ore": "Crystal Ore",
+  "block.crystal-mod.deepslate-crystal-ore": "Deepslate Crystal Ore",
+
+  "block.crystal-mod.crystal-log": "Crystal Log",
+  "block.crystal-mod.stripped-crystal-log": "Stripped Crystal Log",
+  "block.crystal-mod.crystal-wood": "Crystal Wood",
+  "block.crystal-mod.stripped-crystal-wood": "Stripped Crystal Wood",
+  "block.crystal-mod.crystal-leaves": "Crystal Leaves",
+  "block.crystal-mod.crystal-planks": "Crystal Planks",
+  "block.crystal-mod.crystal-tree-sapling": "Crystal Tree Sapling"
+}

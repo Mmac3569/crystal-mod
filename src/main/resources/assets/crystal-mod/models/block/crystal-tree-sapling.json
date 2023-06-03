@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "crystal-mod:block/crystal-tree-sapling"
+  }
+}

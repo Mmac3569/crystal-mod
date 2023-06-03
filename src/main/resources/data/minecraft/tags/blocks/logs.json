@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "crystal-mod:crystal-log",
+    "crystal-mod:stripped-crystal-log"
+  ]
+}

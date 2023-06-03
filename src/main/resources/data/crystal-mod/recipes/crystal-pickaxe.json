@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "ccc",
+    " h ",
+    " h "
+  ],
+  "key": {
+    "c": {
+      "item": "crystal-mod:crystal"
+    },
+    "h": {
+      "item": "crystal-mod:crystal-handle"
+    }
+  },
+  "result": {
+    "item": "crystal-mod:crystal-pickaxe",
+    "count": 1
+  }
+}
